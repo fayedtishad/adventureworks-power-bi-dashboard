@@ -50,6 +50,22 @@ Power BI, DAX, Power Query
 
 - `AdventureWorks_Report_FINAL_Dashboard.pbix`: the Power BI report (open with Power BI Desktop)
 
+## Headline numbers (2020–2022)
+
+| Revenue | Profit | Orders | Return rate |
+|---|---|---|---|
+| $24.9M | $10.5M | 25.2K | 2.2% |
+
 ## Screenshots
 
-Screenshots of each page will be added in `screenshots/`.
+### Exec Dashboard
+![Exec Dashboard](screenshots/01-exec-dashboard.png)
+
+### Map
+![Map](screenshots/02-map.png)
+
+### Product Detail
+![Product Detail](screenshots/03-product-detail.png)
+
+### Customer Detail
+![Customer Detail](screenshots/04-customer-detail.png)
