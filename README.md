@@ -4,6 +4,10 @@ Power BI sales dashboard on the AdventureWorks sample dataset: KPIs, product and
 
 > **Data source:** AdventureWorks sample data (2020–2022) as distributed with the Maven Analytics AdventureWorks course. The raw CSV files are not included in this repository.
 
+## My contribution
+
+I wrote the DAX measures and designed the report visuals and pages (KPIs, trends, drill-downs, map, tooltips, navigation and the AI visuals) on top of the AdventureWorks data.
+
 ## Report pages
 
 | Page | What it shows |
