@@ -46,6 +46,10 @@ Total Orders, Total Revenue, Total Profit, Total Returns, Return Rate, Total Cus
 
 Power BI, DAX, Power Query
 
+## Files
+
+- `AdventureWorks_Report_FINAL_Dashboard.pbix`: the Power BI report (open with Power BI Desktop)
+
 ## Screenshots
 
 Screenshots of each page will be added in `screenshots/`.
